@@ -15,15 +15,7 @@ Planning to upgrade the project to a fullstack website, incorporating both front
 
 - sql
 
-## Contributing
-
-[// If applicable, provide guidelines on how others can contribute to the project]
-
-## License
-
-[// Specify the license used for your project]
-
-## Acknowledgments
+## Tools
 
 Mqsql Workbench
 MS - Excel
